@@ -3,6 +3,7 @@ description: Course Test
 template:
   repo: jyw-ctest-template
   name: jyw-ctest
+  description: 'Welcome, my friend'
 before:
   - type: createIssue
     title: Welcome!
